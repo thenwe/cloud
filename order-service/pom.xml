@@ -39,6 +39,24 @@
         </dependency>
 
 
+        <dependency>
+            <groupId>org.pkl-lang</groupId>
+            <artifactId>pkl-cli-java</artifactId>
+            <version>0.25.2</version>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/org.pkl-lang/pkl-core -->
+        <dependency>
+            <groupId>org.pkl-lang</groupId>
+            <artifactId>pkl-core</artifactId>
+            <version>0.25.2</version>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/org.pkl-lang/pkl-config-java -->
+        <dependency>
+            <groupId>org.pkl-lang</groupId>
+            <artifactId>pkl-config-java</artifactId>
+            <version>0.25.2</version>
+        </dependency>
+
         <!--eureka客户端依赖-->
         <!--<dependency>
             <groupId>org.springframework.cloud</groupId>
